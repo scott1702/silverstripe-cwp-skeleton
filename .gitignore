@@ -1,0 +1,9 @@
+/.git
+/fulltextsearch-localsolr
+/public/assets/
+/public/resources/
+/themes/app/dist/main.css
+/themes/app/node_modules
+/themes/starter
+/themes/watea
+/vendor
